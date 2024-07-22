@@ -1,0 +1,15 @@
+
+4. **Gitignore File**: `.gitignore`
+   Create a `.gitignore` file to exclude unnecessary files from being tracked by Git.
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+*.txt
+
+# Environment variables
+.env
