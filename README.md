@@ -25,3 +25,8 @@ This is a simple keylogger project implemented in Python using the `pynput` libr
 Run the keylogger script:
 ```sh
 python keylogger.py
+keylogger.py
+├── listener.txt  (This will be created when the script is run)
+├── keylogger.txt (This will be created when the script is run)
+├── README.md
+├── DISCLAIMER.md
