@@ -1,4 +1,4 @@
-# Keylogger Project
+# Keylogger Advance
 
 This is a simple keylogger project implemented in Python using the `pynput` library. The keylogger records keystrokes and logs them to a file with timestamps. Additionally, it records the session start and end times in a separate file.
 
